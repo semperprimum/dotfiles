@@ -16,7 +16,7 @@ config.color_scheme = "Monokai (base16)"
 -- config.color_scheme = "Mocha (base16)"
 -- config.color_scheme = "Deafened (terminal.sexy)"
 
-config.font = wezterm.font("Fira Code")
+config.font = wezterm.font("Fira Code Regular")
 config.font_size = 16.0
 config.window_background_opacity = 0.75
 config.macos_window_background_blur = 20
